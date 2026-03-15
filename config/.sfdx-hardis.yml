@@ -1,0 +1,9 @@
+projectName: irishdreamin
+developmentBranch: integration
+autoCleanTypes:
+  - destructivechanges
+  - flowPositions
+  - minimizeProfiles
+devHubAlias: DevHub_irishdreamin
+devHubInstanceUrl: https://abdeslamhq-dev-ed.develop.my.salesforce.com
+devHubUsername: abdeslamhq@gmail.com

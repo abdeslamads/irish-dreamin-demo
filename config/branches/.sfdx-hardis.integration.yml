@@ -1,0 +1,4 @@
+mergeTargets:
+  - uat
+targetUsername: test-9riq8wlbdlea@example.com
+instanceUrl: https://playground-broth-5323-dev-ed.scratch.my.salesforce.com
