@@ -6,11 +6,20 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Account-Account Layout</members>
+        <members>Irish_Dreamin__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Irish_Dreamin__c-Irish Dreamin Layout</members>
         <name>Layout</name>
     </types>
     <types>
+        <members>Events_Manager</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
         <members>Admin</members>
+        <members>B2B Reordering Portal Buyer Profile</members>
         <name>Profile</name>
     </types>
 </Package>
